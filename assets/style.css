@@ -1,0 +1,26 @@
+:root {
+    --main-bg: rgb(43, 42, 40);
+    --alt-bg: rgb(23, 22, 20);
+    --text-color: rgb(199, 178, 151);
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--text-color);
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+#intro, #about {}
+
+#title {
+    font-family: "Kage", serif;
+    font-weight: 500;
+    text-transform: uppercase;
+}
