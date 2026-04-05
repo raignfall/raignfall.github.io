@@ -1,0 +1,53 @@
+/* semi-bold */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: 100%;
+    src: url(fonts/kage-semi-bold.ttf) format('opentype') tech(variations);
+}
+
+/* demi-bold */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 500;
+    font-stretch: 100%;
+    src: url(fonts/kage-demi-bold.ttf) format('opentype') tech(variations);
+}
+
+/* thin */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 300;
+    font-stretch: 100%;
+    src: url(fonts/kage-thin.ttf) format('opentype') tech(variations);
+}
+
+/* extra-light */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    src: url(fonts/kage-extra-light.ttf) format('opentype') tech(variations);
+}
+
+/* bold */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 700 800;
+    font-stretch: 100%;
+    src: url(fonts/kage-bold.ttf) format('opentype') tech(variations);
+}
+
+/* black */
+@font-face {
+    font-family: 'Kage';
+    font-style: normal;
+    font-weight: 900;
+    font-stretch: 100%;
+    src: url(fonts/kage-black.ttf) format('opentype') tech(variations);
+}
